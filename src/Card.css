@@ -1,0 +1,20 @@
+.Card{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+.description-container{
+    color: white;
+    margin-right: 100px;
+}
+
+.card-title{
+    font-size: 60px;
+}
+
+.card-video{
+    width: 500px;
+    aspect-ratio: 16 / 9;
+}
